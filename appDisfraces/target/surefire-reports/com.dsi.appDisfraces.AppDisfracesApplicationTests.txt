@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.dsi.appDisfraces.AppDisfracesApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.689 s - in com.dsi.appDisfraces.AppDisfracesApplicationTests
